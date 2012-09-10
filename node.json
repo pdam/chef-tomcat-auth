@@ -1,0 +1,7 @@
+node['tomcat']['tc6_download_url']="http://apache.techartifact.com/mirror/tomcat6/tomcat-6.0.35/bin/apache-6.0.35.tar,gz" 
+node['tomcat']['tc7_download_url']="http://localhost/apache-tomcat-7.0.29.zip"
+node['tomcat']['tc6_checksum']=
+node['tomcat']['tc7_checksum']=
+node['tomcat']['catalina_home']="/opt"
+
+
